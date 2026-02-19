@@ -11,7 +11,7 @@
         <springboot.version>2.1.4.RELEASE</springboot.version>
         <feign.version>9.7.0</feign.version>
         <lombok.version>1.18.4</lombok.version>
-        <apache.commons.version>3.1</apache.commons.version>
+        <apache.commons.version>3.18.0</apache.commons.version>
     </properties>
 
     <dependencies>
